@@ -1,0 +1,6 @@
+# Stock Market Prediction and Forecasting using Stacked LSTM
+
+The objective of this project is to create a robust model using Recurrent Neural Networks (RNNs), with a particular emphasis on the Long-Short Term Memory (LSTM) architecture, to forecast future stock market values. This model will use historical data of the stock market to learn patterns and relationships and use this knowledge to make predictions for future stock market values.
+
+LSTM is a specialized form of RNN that is well-suited for modeling time-series data such as stock market values. The model will be trained on a dataset of historical stock market data to learn from the patterns and relationships in the data. The trained model will then be used to forecast future stock market values.
+Accurately forecasting stock market values is of utmost importance for financial institutions, investors, and other market participants. By utilizing an LSTM-based RNN model, this project aims to provide accurate predictions that will be useful for making informed investment decisions and managing risks.
